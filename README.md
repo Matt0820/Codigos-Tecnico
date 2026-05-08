@@ -11,7 +11,7 @@ Não pretendo continuar esses projetos por motivos diversos, dentre eles:
 
 ## Aqui eu deixo a estrutura basica deles caso você querido leitor queira ver o que eu fazia em aula
 
-`
+`bash
 
 Codigos-Tecnico/
 │
