@@ -12,6 +12,7 @@ Não pretendo continuar esses projetos por motivos diversos, dentre eles:
 ## Aqui eu deixo a estrutura basica deles caso você querido leitor queira ver o que eu fazia em aula
 
 `
+
 Codigos-Tecnico/
 │
 ├── Banco-de-dados/
@@ -34,6 +35,7 @@ Codigos-Tecnico/
 │       └── trabalho-ciencia-dados.ipynb
 │
 └── arquivos-configuracao/
+
 `
 
 alem disso eu ainda tenho alguns arquivos que perdi no meu google drive, pretendo fazer uma pesquisa profunda pra arrumar este repositório.
